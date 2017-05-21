@@ -1,3 +1,3 @@
 WARNING: PLEASE DO NOT COPY MY CODE! PROFESSOR IS EXTREMELY STRICT ON ACADEMIC INTEGRITY.
 
-This lab implements a two-pass linker. 
+This lab implements a two-pass linker in C++. 
